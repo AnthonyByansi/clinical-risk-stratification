@@ -9,3 +9,7 @@ The project will involve the following steps:
 
 - Identify the outcome of interest: predicting the risk of hospital readmission within 30 days of discharge for patients with CHF.
 - Gather and preprocess the data: collect and clean the data for analysis, dealing with missing values, outliers, and other data quality issues.
+- Select features: identify the most important factors associated with the risk of hospital readmission using statistical methods and machine learning algorithms.
+- Train the model: use the selected features to train a predictive model using suitable algorithms such as logistic regression, decision trees, or neural networks.
+- Evaluate the model: evaluate the model's performance on a validation dataset using metrics such as accuracy, sensitivity, specificity, and AUC-ROC.
+- Deploy the model: deploy the model in clinical settings to predict patients' risk of hospital readmission and intervene early to prevent adverse outcomes.
