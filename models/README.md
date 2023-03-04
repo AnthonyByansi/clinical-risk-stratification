@@ -11,3 +11,13 @@ Several machine learning algorithms were explored in this project, including:
 * XGBoost
 
 Each of these models were trained and evaluated using various performance metrics to determine which models perform best for predicting the risk of hospital readmission for patients with CHF.
+
+## Model Evaluation
+The performance of the models was evaluated using several metrics, including:
+
+* Accuracy
+* Precision
+* Recall
+* F1-score
+* AUC-ROC
+The evaluation results are documented in the `reports` directory.
