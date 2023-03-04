@@ -23,4 +23,5 @@ To reproduce the results of this project, follow these steps:
 - The `reports` directory contains the figures, output and scripts used to generate the final report.
 
 ## Contributors
-[Byansi Anthony] (https://github.com/AnthonyByans)
+[Byansi Anthony](https://github.com/AnthonyByansi)
+
