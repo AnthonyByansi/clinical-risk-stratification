@@ -21,3 +21,6 @@ The performance of the models was evaluated using several metrics, including:
 * F1-score
 * AUC-ROC
 The evaluation results are documented in the `reports` directory.
+
+## Model Usage
+The trained models can be used to predict the risk of hospital readmission for patients with CHF using new patient data. To use the models, the preprocessed patient data must be fed into the trained models, and the models will output the predicted risk of hospital readmission.
