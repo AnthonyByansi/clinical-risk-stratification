@@ -22,3 +22,5 @@ To reproduce the results of this project, follow these steps:
 - The trained model can be found in the `models` directory.
 - The `reports` directory contains the figures, output and scripts used to generate the final report.
 
+## Contributors
+
