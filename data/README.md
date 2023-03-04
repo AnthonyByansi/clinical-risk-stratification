@@ -27,3 +27,10 @@ The final dataset used in the project consists of X records and Y variables. The
 
 ## Data Usage
 The data is used in several Jupyter `notebooks` located in the `notebooks` directory. These notebooks demonstrate the preprocessing steps, feature selection, model training, and evaluation. The preprocessed data can be found in the `data/processed` directory.
+
+## Data License
+The data used in this project is subject to privacy and confidentiality regulations. The data is used for research purposes only and cannot be shared or reproduced without the appropriate permissions.
+
+
+
+
