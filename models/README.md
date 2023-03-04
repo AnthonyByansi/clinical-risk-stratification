@@ -9,3 +9,5 @@ Several machine learning algorithms were explored in this project, including:
 * Random Forest
 * Gradient Boosting
 * XGBoost
+
+Each of these models were trained and evaluated using various performance metrics to determine which models perform best for predicting the risk of hospital readmission for patients with CHF.
