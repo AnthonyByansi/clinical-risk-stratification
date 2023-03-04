@@ -24,3 +24,6 @@ The final dataset used in the project consists of X records and Y variables. The
 * Medical history such as comorbidities, medications, and previous hospitalizations
 * Laboratory tests such as blood pressure, cholesterol, and glucose levels
 * Other factors such as lifestyle habits, socioeconomic status, and social support
+
+## Data Usage
+The data is used in several Jupyter `notebooks` located in the `notebooks` directory. These notebooks demonstrate the preprocessing steps, feature selection, model training, and evaluation. The preprocessed data can be found in the `data/processed` directory.
