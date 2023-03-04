@@ -24,3 +24,6 @@ The evaluation results are documented in the `reports` directory.
 
 ## Model Usage
 The trained models can be used to predict the risk of hospital readmission for patients with CHF using new patient data. To use the models, the preprocessed patient data must be fed into the trained models, and the models will output the predicted risk of hospital readmission.
+
+## Model Deployment
+The models can be deployed as a web application using Flask or other similar web frameworks. Once deployed, the application can be used to predict the risk of hospital readmission for patients with CHF using patient data entered by the user.
