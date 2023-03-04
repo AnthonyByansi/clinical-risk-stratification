@@ -13,3 +13,12 @@ The project will involve the following steps:
 - Train the model: use the selected features to train a predictive model using suitable algorithms such as logistic regression, decision trees, or neural networks.
 - Evaluate the model: evaluate the model's performance on a validation dataset using metrics such as accuracy, sensitivity, specificity, and AUC-ROC.
 - Deploy the model: deploy the model in clinical settings to predict patients' risk of hospital readmission and intervene early to prevent adverse outcomes.
+## Usage
+To reproduce the results of this project, follow these steps:
+
+- Clone the repository to your local machine.
+- Install the necessary dependencies using `pip install -r requirements.txt.`
+- Run the Jupyter notebooks in the notebooks directory to preprocess the data, select features, train and evaluate the model.
+- The trained model can be found in the models directory.
+- The reports directory contains the figures, output and scripts used to generate the final report.
+
