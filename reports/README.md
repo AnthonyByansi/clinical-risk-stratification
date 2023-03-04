@@ -21,4 +21,4 @@ The reports were generated in various formats, including:
 The reports can be used to gain insights into the data and models used in the Clinical Risk Stratification project. The reports can also be used to reproduce the analysis and results presented in the project.
 
 ## Report License
-The reports are provided under the MIT License and can be used, modified, and distributed as long as appropriate credit is given to the original authors. The reports are provided without warranty or guarantee of accuracy or fitness for any particular purpose.
+The reports are provided under the MIT License and can be used, modified, and distributed as long as appropriate credit is given to the original [authors](https://github.com/AnthonyByansi). The reports are provided without warranty or guarantee of accuracy or fitness for any particular purpose.
