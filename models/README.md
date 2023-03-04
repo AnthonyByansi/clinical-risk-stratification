@@ -29,4 +29,4 @@ The trained models can be used to predict the risk of hospital readmission for p
 The models can be deployed as a web application using Flask or other similar web frameworks. Once deployed, the application can be used to predict the risk of hospital readmission for patients with CHF using patient data entered by the user.
 
 ## Model License
-The models developed in this project are free to use and can be modified or distributed as long as appropriate credit is given to the original authors. The models are provided without warranty or guarantee of accuracy or fitness for any particular purpose.
+The models developed in this project are free to use and can be modified or distributed as long as appropriate credit is given to the original [authors](https://github.com/AnthonyByansi). The models are provided without warranty or guarantee of accuracy or fitness for any particular purpose.
