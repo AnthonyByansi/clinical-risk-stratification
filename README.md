@@ -23,5 +23,13 @@ To reproduce the results of this project, follow these steps:
 - The `reports` directory contains the figures, output and scripts used to generate the final report.
 
 ## Contributors
-[Byansi Anthony](https://github.com/AnthonyByansi)
+* [Byansi Anthony](https://github.com/AnthonyByansi)
+* 
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
 
