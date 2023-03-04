@@ -6,3 +6,12 @@ The data was collected from several sources, including:
 * Electronic health records from hospitals and clinics that treat patients with CHF
 * Patient surveys and questionnaires that provide additional information about patients' health status, lifestyle, and other factors
 * Publicly available datasets from research studies or government agencies that contain information on patients with CHF. 
+
+## Data Preprocessing
+Before the data can be used in machine learning models, it needs to be preprocessed to deal with missing values, outliers, and other data quality issues. The preprocessing steps included:
+
+* Cleaning the data by removing irrelevant or duplicate records
+* Dealing with missing values by imputing or removing them
+* Handling outliers by capping or removing extreme values
+* Encoding categorical variables as numeric variables
+Scaling the variables to ensure that they have the same range and unit of measurement
