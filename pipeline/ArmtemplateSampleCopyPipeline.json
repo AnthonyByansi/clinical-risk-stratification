@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "MyCopyActivity",
+				"name": "Data-pipeline",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -19,6 +19,9 @@
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": true
+						},
+						"formatSettings": {
+							"type": "BinaryReadSettings"
 						}
 					},
 					"sink": {
