@@ -1,0 +1,20 @@
+{
+	"name": "ArmtemplateTestDatasetIn",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ArmtemplateStorageLinkedService",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "moviesDB2.csv",
+				"folderPath": "input",
+				"container": "datafactory"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

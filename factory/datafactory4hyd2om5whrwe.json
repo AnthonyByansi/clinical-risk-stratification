@@ -1,0 +1,9 @@
+{
+	"name": "datafactory4hyd2om5whrwe",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e70be26-5249-4a8b-9e9e-42c55d7676ac",
+		"tenantId": "84c31ca0-ac3b-4eae-ad11-519d80233e6f"
+	}
+}

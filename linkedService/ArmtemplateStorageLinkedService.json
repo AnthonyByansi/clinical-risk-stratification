@@ -1,0 +1,12 @@
+{
+	"name": "ArmtemplateStorageLinkedService",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=storage4hyd2om5whrwe;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDYyMDE4NTAzLTk0OUMtNDI2Qy04REIzLTVFNkY3MUY3MUQ5M19iNzU4MWQ4My1mZjQyLTRlZjgtODgwZS01MDI5OTAzMWQ2NWIiDQp9"
+		},
+		"annotations": []
+	}
+}
